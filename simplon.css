@@ -1,0 +1,159 @@
+.body {
+  width: 100%;
+}
+
+.barre {
+  width: 100%;
+  background-color: white;
+  height: 40px;
+  display: flex;
+}
+.simplon {
+  margin-right: 150px;
+  margin-left: 165px;
+}
+
+.image {
+  width: 10%;
+  float: left;
+  position: absolute;
+  margin-right: 500px;
+}
+
+.MenuD {
+  margin-left: 50px;
+  display: flex !important;
+}
+
+.btn-secondary {
+  color: rgb(0, 0, 0) !important;
+  background-color: #ffffff !important;
+  border-color: white !important;
+}
+
+.contact {
+  color: black !important;
+  margin-top: 6px !important;
+}
+
+.lien {
+  color: black !important;
+  margin-left: 10px !important;
+  background-color: none !important;
+}
+
+img {
+  max-width: 100%;
+}
+
+@media only screen and (max-width: 600px) {
+  img {
+    width: 550%;
+    max-width: none !important;
+  }
+
+  .simplon {
+    margin-right: 1px !important;
+  }
+}
+.barrehaut {
+  width: 100%;
+  background-color: white;
+  height: 1px;
+  display: flex;
+  margin-bottom: 50px;
+}
+
+.dropdown {
+  margin-left: 10px !important;
+  background-color: none !important;
+}
+
+/* premiere partie */
+
+.pano {
+  background-color: #b40625;
+  height: 500px;
+  margin-top: 150px;
+  width: 100%;
+}
+
+.photo {
+  margin-top: 150px;
+}
+
+.photosimplon {
+  height: auto;
+  float: right;
+  max-width: 100%;
+  min-height: 100%;
+}
+
+.bloc {
+  display: flex;
+  width: 100%;
+}
+
+h1 {
+  color: white;
+  justify-content: center;
+  margin-top: 100px !important;
+  margin-left: 100px;
+}
+
+.pbloc1 {
+  color: white;
+  margin-left: 100px;
+}
+
+.navbar {
+  box-shadow: none !important;
+}
+
+.btn-outline-danger {
+  color: red !important;
+  background-color: white !important;
+  margin-top: 70px !important;
+  margin-left: 100px !important;
+}
+
+.T2 {
+  color: black;
+  margin-left: 400px !important;
+  margin-bottom: 100px !important;
+}
+
+.card {
+  border-top: 5px solid red !important;
+}
+
+.carte {
+  width: 70%;
+  margin-left: 220px;
+}
+
+.lop {
+  margin-left: 375px !important;
+}
+
+.Tmg {
+  margin-top: 150px;
+  color: black;
+  margin-left: 550px;
+}
+
+.Slade {
+  width: 20%;
+  margin-left: 200px;
+  margin-top: 80px;
+}
+
+.caroussel {
+  display: flex;
+}
+
+.texte {
+  width: 70%;
+  background-color: black;
+  height: 120px;
+}
